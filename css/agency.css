@@ -201,7 +201,7 @@ header.masthead .intro-text .intro-heading {
   font-weight: 700;
   line-height: 50px;
   margin-bottom: 25px;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'SPACEMAN', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -574,17 +574,19 @@ header.masthead .intro-text .intro-heading {
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 100px 20px 20px;
   }
+
 }
 
 .team-member {
   margin-bottom: 30px;
   text-align: center;
+  margin:auto;
 }
 
 .team-member img {
-  width: 225px;
-  height: 225px;
+  width: 30vw;
   border: 7px solid #fff;
+  max-width: 125px;
 }
 
 .team-member h4 {
