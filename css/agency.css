@@ -577,16 +577,18 @@ header.masthead .intro-text .intro-heading {
 
 }
 
+.col {
+  padding: 0;
+}
+
 .team-member {
   margin-bottom: 30px;
   text-align: center;
-  margin:auto;
 }
 
 .team-member img {
-  width: 30vw;
   border: 7px solid #fff;
-  max-width: 125px;
+  max-width: 200px;
 }
 
 .team-member h4 {
