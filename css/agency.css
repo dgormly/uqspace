@@ -13,15 +13,15 @@ p {
 }
 
 a {
-  color: #480E5C;
+  color: #14237F;
 }
 
 a:hover {
-  color: #3E0945;
+  color: #111E6C;
 }
 
 .text-primary {
-  color: #3E0945 !important;
+  color: #111E6C !important;
 }
 
 h1,
@@ -70,27 +70,27 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #480E5C;
-  border-color: #480E5C;
+  background-color: #14237F;
+  border-color: #14237F;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #3E0945 !important;
-  border-color: #3E0945 !important;
+  background-color: #111E6C !important;
+  border-color: #111E6C !important;
   color: white;
 }
 
 .btn-primary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem #480E5C !important;
+  box-shadow: 0 0 0 0.2rem #14237F !important;
 }
 
 ::-moz-selection {
-  background: #3E0945;
+  background: #111E6C;
   text-shadow: none;
 }
 
 ::selection {
-  background: #3E0945;
+  background: #111E6C;
   text-shadow: none;
 }
 
@@ -103,7 +103,7 @@ img::-moz-selection {
 }
 
 #mainNav {
-  background-color: #480E5C;
+  background-color: #14237F;
 }
 
 #mainNav .navbar-toggler {
@@ -113,7 +113,7 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #3E0945;
+  background-color: #111E6C;
   font-family: 'SPACEMAN', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -162,7 +162,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #480E5C;
+    background-color: #14237F;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -251,7 +251,7 @@ header.masthead .intro-text .intro-heading {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: #480E5C;
+  background: #14237F;
 }
 
 #project .project-item .project-link .project-hover:hover {
@@ -375,7 +375,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
-  background-color: #3E0945;
+  background-color: #111E6C;
 }
 
 .project-modal .close-modal .lr .rl {
@@ -387,7 +387,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
-  background-color: #3E0945;
+  background-color: #111E6C;
 }
 
 .timeline {
@@ -404,7 +404,7 @@ header.masthead .intro-text .intro-heading {
   width: 2px;
   margin-left: -1.5px;
   content: '';
-  background-color: #3E0945;
+  background-color: #111E6C;
 }
 
 .timeline > li {
@@ -453,9 +453,9 @@ header.masthead .intro-text .intro-heading {
   margin-left: 0;
   text-align: center;
   color: white;
-  border: 7px solid #3E0945;
+  border: 7px solid #111E6C;
   border-radius: 100%;
-  background-color: #3E0945;
+  background-color: #111E6C;
 }
 
 .timeline > li .timeline-image h4 {
@@ -600,9 +600,9 @@ header.masthead .intro-text .intro-heading {
 .team-member p {
   margin-top: 0;
 }
-
+/*
 section#contact {
-  background-color: #3E0945;
+  background-color: #111E6C;
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
@@ -630,7 +630,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #3E0945;
+  border-color: #111E6C;
   box-shadow: none;
 }
 
@@ -642,24 +642,24 @@ section#contact ::-webkit-input-placeholder {
 
 section#contact :-moz-placeholder {
   font-weight: 700;
-  color: #3E0945;
+  color: #111E6C;
   /* Firefox 18- */
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+/*  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 section#contact ::-moz-placeholder {
   font-weight: 700;
-  color: #3E0945;
+  color: #111E6C;
   /* Firefox 19+ */
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+/*  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 section#contact :-ms-input-placeholder {
   font-weight: 700;
-  color: #3E0945;
+  color: #111E6C;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-
+*/
 footer {
   padding: 25px 0;
   text-align: center;
@@ -696,9 +696,9 @@ ul.social-buttons li a {
   color: white;
   border-radius: 100%;
   outline: none;
-  background-color: #3E0945;
+  background-color: #111E6C;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #3E0945;
+  background-color: #111E6C;
 }
